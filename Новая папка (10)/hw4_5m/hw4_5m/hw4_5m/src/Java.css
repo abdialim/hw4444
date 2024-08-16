@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./img/i.webp);
+}
+
+.btn{
+    margin-left: 776px;
+    margin-top: 15px;
+    
+   
+}
+.count_result{
+    text-align: center;
+    margin-top: 20%;
+    color: red;
+    
+}
